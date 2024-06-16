@@ -1,0 +1,13 @@
+h4{
+    color: aliceblue;
+}
+
+.table-fixed {
+    width: 100%;
+    table-layout: fixed;
+  }
+  .table-fixed th, .table-fixed td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }

@@ -1,0 +1,23 @@
+.formulario{
+    max-width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 200px;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    width: 500px;
+}
+
+.titulo{
+    padding-top: 100px;
+}
+
+#btn-sub{
+    top: 5px;
+}

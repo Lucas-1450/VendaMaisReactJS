@@ -1,0 +1,60 @@
+#cont-login{
+    margin-top: 50px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    padding-bottom: 20px;
+    border: 1px solid #bdb4b4;
+    border-radius: 10px;
+    background-color: #2f3746;
+    box-shadow: 2px 2px 2px 1px rgba(196, 193, 193, 0.2);
+}
+
+.input-login{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#icon-login{
+    margin: 2px;
+    right: 10px;
+}
+
+#form-c-login{
+    margin-right: 4px;
+    width: 350px;
+    background-color: #a2a8a8;
+}
+#btn-login{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 250px;
+    margin-left: 60px;
+}
+
+#vendaMais{
+    margin-top: 25px;
+    text-align: center;
+}
+
+#login-div{
+    margin-top: 25px;
+}
+
+h1, label, .icon, p{
+    color: white;
+}
+
+
+
+.signup-link{
+    display: flex;
+    justify-content: center;
+}
+
+html, body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(114,114,115,0.9864320728291317) 100%, rgba(53,101,158,1) 100%);
+}
